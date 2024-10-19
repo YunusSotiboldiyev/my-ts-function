@@ -53,7 +53,7 @@ function fizz(son: number): any {
         } else {
             console.log(son);
         }
-        son++; // increment the number at the end of each iteration
+        son++; 
     }
 }
 
