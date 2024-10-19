@@ -13,7 +13,7 @@ check(2)//musbat
 check(-1)//manfiy
 check(0)//0ga teng
 //2-vazifa
-let numbers = [1, 2, 3, 4, 5];
+let numbers:number[] = [1, 2, 3, 4, 5];
 let all:number=0
 function yegindi(sonlar: number[]): number {
     for (let i = 0; i < sonlar.length; i++) {
